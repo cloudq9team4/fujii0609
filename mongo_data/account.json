@@ -1,0 +1,12 @@
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e5" }, "userId" : "igaki", "pass" : "spiral", "role" : "promoter" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e6" }, "userId" : "fukuyasu", "pass" : "spiral", "role" : "promoter" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e7" }, "userId" : "matsu", "pass" : "spiral", "role" : "promoter" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e8" }, "userId" : "tamada", "pass" : "spiral", "role" : "promoter" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e9" }, "userId" : "admin", "pass" : "admin", "role" : "administrator" }
+{ "_id" : { "$oid" : "5154e26ff50b2e5eeb8923d4" }, "userId" : "promoter1", "pass" : "promoter1", "role" : "promoter" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e4" }, "userId" : "user0", "pass" : "pass0", "role" : "user" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5df" }, "userId" : "user1", "pass" : "pass1", "role" : "user" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e0" }, "userId" : "user2", "pass" : "pass2", "role" : "user" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e1" }, "userId" : "user3", "pass" : "pass3", "role" : "user" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e2" }, "userId" : "user4", "pass" : "pass4", "role" : "user" }
+{ "_id" : { "$oid" : "5154e1b1f50b4d464477d5e3" }, "userId" : "user5", "pass" : "pass5", "role" : "user" }
